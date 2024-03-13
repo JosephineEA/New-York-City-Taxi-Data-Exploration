@@ -1,0 +1,21 @@
+name: pp-proj2
+channels:
+    - anaconda
+    - conda-forge
+    - defaults
+dependencies:
+    - python>=3.9
+    - numpy<=1.23.0
+    - scipy
+    - matplotlib
+    - pandas
+    - seaborn
+    - jupyter
+    - ipykernel
+    - ipywidgets
+    - pyarrow
+    - fastparquet
+    - pip
+    - sklearn
+    - meteostat
+    - datetime
